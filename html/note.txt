@@ -1,0 +1,9 @@
+HTML (Hyper Text Markup Language)
+- DOCTYPE use to specify html version
+- DOM (document object model) 
+
+HTML have two type is
+    - inline block
+    - block element
+    
+DIV tage used to seperate block, div is block element
